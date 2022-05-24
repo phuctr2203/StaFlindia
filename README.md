@@ -1,4 +1,9 @@
-# -BIIT-Project
+<h1>StaFlindia</h1>
+This is a Data Visualisation and Machine Learning project during RMIT University. We develop StaFlindia - a web application for India Flight Data Analysis in a group of 5 members. The language used are Python, HTML and CSS. <br/>
+
+Link: https://share.streamlit.io/nhatnguyen3001/starflinda/main/apps.py<br/><br/>
+
+<img src="image/homepage.jpg">
 
 
 
@@ -57,4 +62,5 @@
 [  https://www.kaggle.com/datasets/shubhambathwal/flight-price-prediction](url)
 
 ##  User Manual
-# StaFlindia
+
+https://docs.google.com/document/d/13ndKbFKlDVke8E6ybmQFKy63APymuuePcW_qrYNfudM/edit?usp=sharing
