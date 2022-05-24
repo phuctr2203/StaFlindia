@@ -1,0 +1,28 @@
+/*each button containers*/
+div.row-widget.stButton {
+    background-color: pink;
+    height: 100%;
+    width: 100%;
+}
+
+/*button*/
+div.row-widget.stButton button:not(:disabled){
+    background-color: transparent;
+    text-align: center;
+    border: none;
+    height: 100%;
+    width: 100%;
+    padding: 2%;
+}
+
+/*whole button container*/
+
+/*body*/
+div.block-container.css-18e3th9.egzxvld2 {
+    padding: 20% 2%;
+}
+
+div.css-j5r0tf.e1tzin5v2 {
+    height: 100%;
+    width: 100%;
+}

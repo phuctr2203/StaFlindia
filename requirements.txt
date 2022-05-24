@@ -1,0 +1,11 @@
+streamlit==1.6.0
+pandas
+streamlit-option-menu
+Image
+secure-smtplib
+email-to
+streamlit-aggrid
+altair
+streamlit-folium
+click==8.0.4
+plotly_express==0.4.0
